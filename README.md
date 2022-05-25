@@ -1,7 +1,6 @@
 ### Olá 👋
 
- 🔭 Trabalho atualmente com criação de e-commerce nas plataformas Tray e Nuvemshop.<br>
-🌱 Estudo Javascript, React e Typescript.<br>
-:computer:   Minha stack: HTML, CSS, SCSS, Twig, ReactJS, & Typescript. <br>
+ 🔭 Trabalho atualmente com criação e manutenção de e-commerce nas plataformas Vtex e Vtex IO.<br>
+:computer:   Minha stack: HTML, CSS, SCSS, VueJS, ReactJS, & Typescript. <br>
 
 <a href="https://www.linkedin.com/in/dcpadovani/">Linkedin</a>
